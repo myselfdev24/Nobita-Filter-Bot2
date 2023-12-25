@@ -128,7 +128,7 @@
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ᴋᴏʏᴇʙ 」─
 </h3>
-<p align="center"><a href="https://app.koyeb.com/deploy?type=git&repository=github.com/NobiDeveloper/Nobita-Filter-Bot&branch=main&name=Nobita-Filter-Bot">
+<p align="center"><a href="https://app.koyeb.com/deploy?type=git&repository=github.com/monitg/Nobita-Filter-Bot2&branch=main&name=Nobita-Filter-Bot">
   <img src="https://www.koyeb.com/static/images/deploy/button.svg" alt="Deploy On Koyeb">
 </a></p>
 <h3 align="center">
