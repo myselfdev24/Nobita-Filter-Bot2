@@ -78,7 +78,7 @@ TEXT = environ.get("APPROVED_WELCOME_TEXT", "<b>{mention},\n\nʏᴏᴜʀ ʀᴇǫ
 APPROVED = environ.get("APPROVED_WELCOME", "on").lower()
 
 # Others
-IS_VERIFY = bool(environ.get('IS_VERIFY', true))
+IS_VERIFY = bool(environ.get('IS_VERIFY', True))
 VERIFY2_URL = environ.get('VERIFY2_URL', "onepagelink.in")
 VERIFY2_API = environ.get('VERIFY2_API', "88860a074bf831cf78e2e7dfbade22eb05a5c2fb")
 SHORTLINK_URL = environ.get('SHORTLINK_URL', 'tnshort.net')
