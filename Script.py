@@ -10,7 +10,7 @@ class script(object):
     NOBI = """
 <b>{} 🙋‍♂
 
-🔺 ᴍʏ ɴᴀᴍᴇ - ʀᴀʜᴜʟ
+🔺 ᴍʏ ɴᴀᴍᴇ - THALA DEV
 ♾ ᴜsᴇʀɴᴀᴍᴇ - <a href='https://telegram.me/Team_MDL_Admin_bot'>Team_MDL</a>
 ❕ ᴘᴍ. ᴅᴍ ʟɪɴᴋ - <a href='https://telegram.me/Team_MDL_ADmin_Bot'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
 👼 ᴅᴏʙ - 08 | 04 | 2004
@@ -533,17 +533,21 @@ NOTE:
  • 𝗁 = 𝗁𝗈𝗎𝗋𝗌
  • 𝖽 = 𝖽𝖺𝗒𝗌</b>"""
     GRP_TXT = """
-<b>──────「 <a href='https://telegram.me/Team_MDL'>ᴇᴀʀɴ ᴍᴏɴᴇʏ</a> 」──────
+<b>──────「 🥀 WELCOME TO TEAM_MDL ✨ 」──────
 
-➥ ɴᴏᴡ ʏᴏᴜ ᴄᴀɴ ᴀʟsᴏ ᴇᴀʀɴ ʟᴏᴛs ᴏꜰ ᴍᴏɴᴇʏ ꜰʀᴏᴍ ᴛʜɪꜱ ʙᴏᴛ.
+➥ Join Our Movies Channel 🔰
 
-›› sᴛᴇᴘ 𝟷 : ʏᴏᴜ ᴍᴜsᴛ ʜᴀᴠᴇ ᴀᴛʟᴇᴀsᴛ ᴏɴᴇ ɢʀᴏᴜᴘ ᴡɪᴛʜ ᴍɪɴɪᴍᴜᴍ 𝟹𝟶𝟶 ᴍᴇᴍʙᴇʀs.
+›› <a href='https://t.me/Team_MDL'>[Main Channel]</a>
 
-›› sᴛᴇᴘ 𝟸 : ᴍᴀᴋᴇ ᴀᴄᴄᴏᴜɴᴛ ᴏɴ <a href='https://tnshort.net/ref/devagovin'>ᴍᴅɪsᴋ</a> ᴏʀ <a href='https://onepagelink.in/ref/DEVWILSON'>ᴏᴍᴇɢᴀʟɪɴᴋꜱ</a>. [ ʏᴏᴜ ᴄᴀɴ ᴀʟsᴏ ᴜsᴇ ᴏᴛʜᴇʀ sʜᴏʀᴛɴᴇʀ ᴡᴇʙsɪᴛᴇ ]
+›› <a href='https://t.me/+lv0ezc1xH2Y4ZTM1'>Movies [File Channel]</a>
 
-›› sᴛᴇᴘ 𝟹 : ꜰᴏʟʟᴏᴡ ᴛʜᴇsᴇ <a href='https://telegram.me/Demoshorts'>ɪɴꜱᴛʀᴜᴄᴛɪᴏɴꜱ</a>.
+›› <a href='https://t.me/+IEuqAeD0ioMzZTE1'>Hollywood Dubbed Movies</a>
 
-➥ ᴛʜɪꜱ ʙᴏᴛ ꜰʀᴇᴇ ꜰᴏʀ ᴀʟʟ ʏᴏᴜ ᴄᴀɴ ᴜꜱᴇ ᴛʜɪꜱ ʙᴏᴛ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘs ꜰʀᴇᴇ ᴏꜰ ᴄᴏꜱᴛ.</b>"""
+›› <a href='https://t.me/+ZjNVcrSU_zs3MjA9'>Tamil Web-Series</a>
+
+›› <a href='https://t.me/+KAjYvbNDdKhlYmE1'>Movie Request Group</a>
+
+➥ MY Best Friend :<a href='tg://settings'>This Person</a>.</b>"""
 
     DELF = """
 ꜱᴏʀʀʏ ᴅᴜᴅᴇ ☹,
