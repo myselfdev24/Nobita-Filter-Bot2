@@ -210,9 +210,7 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 
 ☎️ ʀᴇᴀᴅ ɢʀᴏᴜᴘ ʀᴜʟᴇs ᴛᴏ ᴋɴᴏᴡ ᴍᴏʀᴇ...</b>"""
 
-    OWNER_INFO = """
-<a href='https://t.me/Team_MDL_admin_bot'>Team_MDL Admin</a>
-"""
+    OWNER_INFO = """https://t.me/Team_MDL_admin_bot"""
     NORSLTS = """
 ★ #𝗡𝗼𝗥𝗲𝘀𝘂𝗹𝘁𝘀 ★
 
