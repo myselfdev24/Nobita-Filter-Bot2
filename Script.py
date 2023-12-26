@@ -10,7 +10,7 @@ class script(object):
     NOBI = """
 <b>{} 🙋‍♂
 
-🔺 ᴍʏ ɴᴀᴍᴇ - THALA DEV
+🔺 ᴍʏ ɴᴀᴍᴇ - Wilson
 ♾ ᴜsᴇʀɴᴀᴍᴇ - <a href='https://telegram.me/Team_MDL_Admin_bot'>Team_MDL</a>
 ❕ ᴘᴍ. ᴅᴍ ʟɪɴᴋ - <a href='https://telegram.me/Team_MDL_ADmin_Bot'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
 👼 ᴅᴏʙ - 08 | 04 | 2004
@@ -210,7 +210,15 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 
 ☎️ ʀᴇᴀᴅ ɢʀᴏᴜᴘ ʀᴜʟᴇs ᴛᴏ ᴋɴᴏᴡ ᴍᴏʀᴇ...</b>"""
 
-    OWNER_INFO = """https://t.me/Team_MDL_admin_bot"""
+    OWNER_INFO = """
+    <b> Admin Info 🔰
+    
+    NAME : DEV WILSON 🧑🏻‍💻
+    STUDY : BCA 👨🏻‍🎓
+    ADMIN OF 10+ TG CHANNEL 👑
+    MOVIES UPLOAD 📥
+    
+    CONTACT HERE<a href="https://t.me/team_MDL_admin_bot">Click Here</a></b>"""
     NORSLTS = """
 ★ #𝗡𝗼𝗥𝗲𝘀𝘂𝗹𝘁𝘀 ★
 
@@ -219,9 +227,9 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
     CAPTION = """
-[{caption}]
+<b>[{caption}]
 
-<b>•────•────────•────•
+•────•────────•────•
 📌 ʀᴇǫᴜᴇsᴛ ɢʀᴏᴜᴘ​ : [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/+KAjYvbNDdKhlYmE1)
 🎬 ᴍᴏᴠɪᴇs ᴄʜᴀɴɴᴇʟ​ : [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://telegram.me/Team_MDL)
 •────•────────•────•
