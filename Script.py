@@ -232,6 +232,7 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 •────•────────•────•
 📌 ʀᴇǫᴜᴇsᴛ ɢʀᴏᴜᴘ​ : [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/+KAjYvbNDdKhlYmE1)
 🎬 ᴍᴏᴠɪᴇs ᴄʜᴀɴɴᴇʟ​ : [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://telegram.me/Team_MDL)
+📱 ʏᴛ ᴄʜᴀɴɴᴇʟ​ : [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://youtube.com/@MoviesDudez)
 •────•────────•────•
 
 ©️ ᴘᴏᴡᴇʀᴇᴅ ʙʏ : [Team_MDL](https://telegram.me/team_MDL)</b>"""
