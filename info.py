@@ -62,7 +62,7 @@ DATABASE_NAME = environ.get('DATABASE_NAME', "Nobideveloper")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 
 # stickers
-STICKERS = (environ.get('STICKERS', 'CAACAgUAAxkBAAIKqWP81BZ6YnpWEFoF_4JPR0EbjsO3AAIvBwACnMjpV9YvaONl41IBHgQ CAACAgUAAxkBAAIKrmP81GnWQ0d_BAZhre0dMc5SwJKOAAJ0DgACgr3gVwrjYuxSJxn7HgQ')).split()
+STICKERS = (environ.get('STICKERS', 'CAACAgUAAxkBAAENnUFlrTIf0FT-TgqEaSAhVh_UQKWFiQACFgoAAoBu0VSY_9b1MN-k_R4E')).split()
 
 # FSUB
 auth_channel = environ.get('AUTH_CHANNEL')
