@@ -10,7 +10,7 @@ class script(object):
     NOBI = """
 <b>{} 🙋‍♂
 
-🔺 ᴍʏ ɴᴀᴍᴇ - Wilson
+🔺 ᴍʏ ɴᴀᴍᴇ - Dev Wilson
 ♾ ᴜsᴇʀɴᴀᴍᴇ - <a href='https://telegram.me/Team_MDL_Admin_bot'>Team_MDL</a>
 ❕ ᴘᴍ. ᴅᴍ ʟɪɴᴋ - <a href='https://telegram.me/Team_MDL_Admin_Bot'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
 👼 ᴅᴏʙ - 08 | 04 | 2004
@@ -211,14 +211,15 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 ☎️ ʀᴇᴀᴅ ɢʀᴏᴜᴘ ʀᴜʟᴇs ᴛᴏ ᴋɴᴏᴡ ᴍᴏʀᴇ...</b>"""
 
     OWNER_INFO = """
-    <b> Admin Info 🔰
+    <b> ADMIN INFO 🔰
     
     NAME : DEV WILSON 🧑🏻‍💻
+    AGE : 20 🔞
     STUDY : BCA 👨🏻‍🎓
-    ADMIN OF 10+ TG CHANNEL 👑
+    ADMIN OF #Team_MDL 👑
     MOVIES UPLOAD 📥
     
-    CONTACT HERE<a href="https://t.me/team_MDL_admin_bot">Click Here</a></b>"""
+   ☎️ CONTACT HERE: <a href="https://t.me/team_MDL_admin_bot">Click Here</a></b>"""
     NORSLTS = """
 ★ #𝗡𝗼𝗥𝗲𝘀𝘂𝗹𝘁𝘀 ★
 
