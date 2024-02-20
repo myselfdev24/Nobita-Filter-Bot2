@@ -12,7 +12,7 @@ class script(object):
 
 🔺 ᴍʏ ɴᴀᴍᴇ - Wilson
 ♾ ᴜsᴇʀɴᴀᴍᴇ - <a href='https://telegram.me/Team_MDL_Admin_bot'>Team_MDL</a>
-❕ ᴘᴍ. ᴅᴍ ʟɪɴᴋ - <a href='https://telegram.me/Team_MDL_ADmin_Bot'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
+❕ ᴘᴍ. ᴅᴍ ʟɪɴᴋ - <a href='https://telegram.me/Team_MDL_Admin_Bot'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
 👼 ᴅᴏʙ - 08 | 04 | 2004
 ⏳ ʟᴇᴠᴇʟ - ɢʀᴀᴅᴜᴀᴛɪᴏɴ
 🎭 ᴀɢᴇ - ᴊᴜsᴛ ᴄᴀʟᴄᴜʟᴀᴛᴇ
@@ -191,7 +191,7 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 
 𝟹) ɴᴏᴛ ᴀᴠᴀɪʟᴀʙʟᴇ ɪɴ ᴅᴀᴛᴀʙᴀꜱᴇ
 
-<b><a href=https://t.me/+KAjYvbNDdKhlYmE1>~ ʀᴇǫᴜᴇ𝗌ᴛ ᴛᴏ ᴏᴡɴᴇʀ</a></b>
+<b><a href=https://t.me/Team_MDL_Admin_Bot>~ ʀᴇǫᴜᴇ𝗌ᴛ ᴛᴏ ᴏᴡɴᴇʀ</a></b>
 """
 
     TOP_ALRT_MSG = """ꜱᴇᴀʀᴄʜɪɴɢ  ɪɴ  ᴅᴀᴛᴀʙᴀꜱᴇ..."""
