@@ -532,9 +532,11 @@ NOTE:
 
 ›› <a href='https://t.me/Team_MDL'>[Main Channel]</a>
 
-›› <a href='https://t.me/+lv0ezc1xH2Y4ZTM1'>Movies [File Channel]</a>
+›› <a href='https://t.me/+8idzu8b9w1k3ODhl'>Tamil Movies [File Channel]</a>
 
 ›› <a href='https://t.me/+IEuqAeD0ioMzZTE1'>Hollywood Dubbed Movies</a>
+
+›› <a href='https://t.me/Anime_Dub_Tam'>Anime Tamil Dub</a>
 
 ›› <a href='https://t.me/+ZjNVcrSU_zs3MjA9'>Tamil Web-Series</a>
 
